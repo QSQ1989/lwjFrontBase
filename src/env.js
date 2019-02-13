@@ -1,0 +1,1 @@
+export const REGISTER_URL = 'http://admin-staging.liweijia.com/security/auth/register'
